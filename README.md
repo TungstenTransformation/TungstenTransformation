@@ -1,4 +1,5 @@
 * [Tungsten Transformation 7.0](https://github.com/TungstenTransformation/KT-7.0) was released on 14 April 2022.
+* **New!!** [Classification Guide](https://github.com/TungstenTransformation/KTScripts/blob/masterREADME.md#classification)
 * **New!!** [Table Benchmark Guide](https://github.com/TungstenTransformation/KTScripts/blob/master/Table_Benchmark.md)
 * **New!!** [Advanced Table Locator Guide](https://github.com/TungstenTransformation/KTScripts/blob/master/Tables_AdvancedTableLocatorGuideForKTA.md)
 * Integrate [Microsoft OCR](https://github.com/TungstenTransformation/MicrosoftOCR/) into Tungsten Transformation.
